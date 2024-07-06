@@ -3,7 +3,7 @@
 **[2024-07-15]** release three stella_en_v5 models (434M, 1.5B and 7B parameters), [stella_en_400M_v5](https://huggingface.co/infgrad), [stella_en_1.5B_v5](https://huggingface.co/infgrad), [stella_en_7B_v5](https://huggingface.co/infgrad)
 
 Features:
-- Simplify usage of prompts, providing two prompts for all tasks, one is for s2p, another one is for s2s.
+- Simplify usage of prompts, providing two prompts for most general tasks, one is for s2p, another one is for s2s.
 - The models are finally trained by [MRL](https://arxiv.org/abs/2205.13147), so they have multiple dimensions
 
 **[2024-04-06] 墙裂推荐>~<** 开源[puff](https://huggingface.co/infgrad/puff-base-v1)系列模型，**专门针对检索和语义匹配任务，更多的考虑泛化性和私有通用测试集效果，向量维度可变，中英双语**。
