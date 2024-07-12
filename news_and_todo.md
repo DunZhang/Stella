@@ -1,6 +1,6 @@
 ## All stella models and datasets
 
-**[2024-07-15]** release three stella_en_v5 models (434M, 1.5B and 7B parameters), [stella_en_400M_v5](https://huggingface.co/infgrad), [stella_en_1.5B_v5](https://huggingface.co/infgrad), [stella_en_7B_v5](https://huggingface.co/infgrad)
+**[2024-07-15]** release three stella_en_v5 models (434M and 1.5B), [stella_en_400M_v5](https://huggingface.co/infgrad), [stella_en_1.5B_v5](https://huggingface.co/infgrad)
 
 Features:
 - Simplify usage of prompts, providing two prompts for most general tasks, one is for s2p, another one is for s2s.
@@ -22,5 +22,5 @@ Features:
 
 ## ToDoList
 
-- release stella 7b model (the model is too large and not practical, may be abandoned)
+- release stella 7B model (the model is too large and not practical, may be abandoned)
 - add ability of encoding dialogue for existing models
