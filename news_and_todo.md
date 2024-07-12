@@ -1,4 +1,4 @@
-**All stella models and datasets**
+## All stella models and datasets
 
 **[2024-07-15]** release three stella_en_v5 models (434M, 1.5B and 7B parameters), [stella_en_400M_v5](https://huggingface.co/infgrad), [stella_en_1.5B_v5](https://huggingface.co/infgrad), [stella_en_7B_v5](https://huggingface.co/infgrad)
 
@@ -17,3 +17,10 @@ Features:
 **[2023-10-12]** 开源stella-base-zh-v2和stella-large-zh-v2, 效果更好且使用简单，**不需要任何前缀文本**。
 
 **[2023-09-11]** 开源stella-base-zh和stella-large-zh
+
+
+
+## ToDoList
+
+- release stella 7b model (the model is too large and not practical, may be abandoned)
+- add ability of encoding dialogue for existing models
