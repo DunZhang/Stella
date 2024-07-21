@@ -24,3 +24,6 @@ Features:
 
 - release stella 7B model (the model is too large and not practical, may be abandoned)
 - add ability of encoding dialogue for existing models
+- Quantized models calibrated by training data
+- Performance on OOD data (LLM may be useful)
+
